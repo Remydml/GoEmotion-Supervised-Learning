@@ -6,5 +6,5 @@ A study of the GoEmotion dataset by testing some models and trying to get the be
 
 ## Content
 
-The notebook containing the complete study : GoEmotion_Sentiment_Analysis.ipynb
+The notebook containing the complete study : GoEmotion_Sentiment_Analysis.ipynb <br>
 The dataset : go_emotions_dataset.csv
